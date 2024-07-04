@@ -1,1 +1,1 @@
-cookie banner doesnt works
+cookie banner does not work
