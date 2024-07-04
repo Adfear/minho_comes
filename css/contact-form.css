@@ -1,0 +1,115 @@
+
+body{
+  background-color: rgb(237, 225, 242);
+}
+
+
+.contact_form{  
+  width: 95%; 
+  height: 74vh;
+  margin: 20px auto;
+  border-radius: 5px;  
+  background-color: rgba(0, 0, 0, 0.7); 
+  box-sizing: border-box;
+}
+
+.titulo h1 {
+  text-align: center; 
+  padding-bottom: 0px; 
+  color: #af2aca9d;
+  padding-top: 20px;
+
+}
+
+.titulo h3 {
+  font-size: 16px; 
+  color: #0e0e0e;   
+  text-align: center;
+}
+
+.form_izq{
+  padding-left: 10%;
+
+
+}
+
+.form_der{
+
+ padding-left: 2%;
+ padding-right: 10%;
+
+}
+
+input{
+  background-color: rgb(255, 255, 255);; 
+  width: 408px; 
+  height: 40px; 
+  border-radius: 5px;  
+  border-style: solid; 
+  border-width: 1px; 
+  border-color: #ab02b7; 
+  margin-top: 10px;  
+  padding-left: 10px;
+  margin-bottom: 20px; 
+}
+
+input[type="checkbox"] {
+  width: 20px;
+  
+}
+
+
+textarea{
+  background-color: rgb(255, 255, 255); 
+  width: 405px; 
+  height: 50px; 
+  border-radius: 5px;  
+  border-style: solid; 
+  border-width: 1px; 
+  border-color: #ab4493; 
+  margin-top: 10px;  
+  padding-left: 10px;
+  margin-bottom: 20px; 
+  padding-top: 15px; 
+}
+
+
+
+
+
+button{
+  height: 45px; 
+  padding-left: 5px;
+  padding-right: 5px;   
+  margin-bottom: 20px; 
+  margin-top: 10px;   
+  text-transform: uppercase;
+  background-color: #ab02b7; 
+  border-color: #ab02b7; 
+  border-style: solid; 
+  border-radius: 10px;  
+  width: 420px;   
+  cursor: pointer;
+  box-sizing: border-box;
+}
+
+
+
+
+
+
+.form1 {
+  display: flex;
+  align-items: center;
+}
+
+
+.pp {
+  align-items: center;
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+input[type="checkbox"] {
+  transform: translate(-1vh,1.5vh);
+}

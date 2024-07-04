@@ -1,0 +1,168 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    padding-top: 80px;
+    font-size: 1em;
+    line-height: 1.5em;
+    box-sizing: border-box;
+    background-color: rgb(237, 225, 242);
+}
+
+
+header {
+    background: rgba(0, 0, 0, 0.7);
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+    margin: auto;
+    padding: 0%;
+    padding-bottom: 0%;
+    height: 11vh;
+    left: 0;
+    top: 0;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+
+}
+
+
+
+
+#izq {
+    float: left;
+    display: flex;
+    border: 10px;
+    height: 50px;
+    list-style: none;
+
+}
+
+#der {
+    float: right;
+    margin: 0px;
+    list-style: none;
+    height: 50%;
+
+}
+
+#avisoLegal {
+    float: right;
+    display: flex;
+    border: 10px;
+    height: 150px;
+    width: 20%;
+    list-style: none;
+
+
+}
+
+a{
+    color: white;
+}
+
+
+
+nav ul li {
+    padding-left: 50px;
+    margin-top: 0%;
+}
+
+nav ul li img {
+    height: 50px;
+ 
+}
+
+
+#logominhocomes img {
+    float: right;
+    width: 55%;
+    height: 20%;
+
+}
+
+footer {
+    background: rgba(0, 0, 0, 0.7);
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+    margin: auto;
+    padding: 0%;
+    padding-bottom: 0%;
+    height: 11vh;
+    left: 0;
+    bottom: 0;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+
+
+}
+
+
+iframe {
+    width: 100%;
+    height: 78vh
+    
+
+}
+
+
+.p1 {
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+
+.a1 {
+    padding-left: 150px;
+}
+
+.p2 {
+    align-self: center;
+}
+
+.cookie-overlay {
+    display:block;
+    position: fixed;
+    bottom: 1rem;
+    left: 1rem;
+    background: #cca3a3;
+    z-index: 2051;
+    line-height: 20px;
+    font-size: 14px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    width: 20%;
+    text-align: center;
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+
+  }
+
+  .cookies{
+    padding-left: 15%;
+    padding-right: 15%;
+    align-items: center;
+  }
+
+  .cookies_yes {
+    background-color: green;
+    width: 100px;
+  }
+  .cookies_no {
+    background-color: red;
+    width: 100px;
+  }
+ 
+ 
+
+  
+ 
+  
+  
+  

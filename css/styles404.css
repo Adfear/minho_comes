@@ -1,0 +1,13 @@
+body {
+    background-image: url(/img/vainaRota.png);
+    position: relative;
+    align-items: center;
+}
+
+#cuadro {
+    position: relative;
+    align-self: center;
+    width: 50%;
+    padding-left: 25%;
+    padding-top: 5%;
+}
